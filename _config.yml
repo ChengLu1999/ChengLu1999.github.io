@@ -23,11 +23,9 @@ author:
   # Biographic information
   avatar           : "headshot.jpeg"
   name             : "Cheng Lu (路程)"
-  pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Marketing Science at WashU"
   location         : "St. Louis"
-  employer         : "Red Brick University"
-  uri              : # URL
+  uri              : https://chenglu1999.github.io
   email            : "cheng.lu@wustl.edu" 
 
   # Academic websites
