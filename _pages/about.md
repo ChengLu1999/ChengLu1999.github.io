@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Marketing Science at Olin Business School, Washington University in St. Louis (WashU). I'm glad to be advised by Prof. [Dennis Zhang](http://denniszhang.org/). My research interests lie in User-Generated Content (UGC) Platforms, Social Networks, Causal Inference, and Machine Learning.
+I'm a Ph.D. student in Marketing Science at Olin Business School, Washington University in St. Louis (WashU). I'm advised by Prof. [Dennis Zhang](http://denniszhang.org/). My research interests lie in User-Generated Content (UGC) Platforms, Social Networks, Causal Inference, and Machine Learning.
 
 Education
 ------
