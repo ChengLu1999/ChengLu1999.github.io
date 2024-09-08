@@ -11,8 +11,8 @@ I'm a Ph.D. student in Marketing Science at Olin Business School, Washington Uni
 
 Education
 ------
-+ Ph.D. Student in Marketing, Washington University in St. Louis, 2023 - 2029 (Expected)
-+ Master in Management, London Business School, 2022 - 2023
++ Ph.D. Student in Marketing Science, Washington University in St. Louis, 2023 - 2029 (Expected)
++ M.A. in Management, London Business School, 2022 - 2023
 + B.S. in Economics, Tsinghua University, 2018 - 2022
 
 Research
