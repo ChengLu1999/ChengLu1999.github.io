@@ -19,6 +19,7 @@ Research
 ------
 + **Working Papers**
   1. Guangying Chen, **Cheng Lu**, Tat Y. Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. "[A New Estimator for Randomized Control Trials with Non-Compliance: Theory and Empirical Evidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490)."
+       Runner-up for the 2024 INFORMS Information Systems Cluster Best Paper Award (Top 5%)
 
 Teaching
 ------
