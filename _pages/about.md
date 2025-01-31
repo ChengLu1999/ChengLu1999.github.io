@@ -18,7 +18,7 @@ Education
 Research
 ------
 + **Working Papers**
-  1. Guangying Chen, **Cheng Lu**, Tat Y. Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. "[A New Estimator for Encouragement Design in Field Experiments When the Exclusion Restriction Is Violated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490)." <br />
+  1. Guangying Chen, **Cheng Lu**, Tat Y. Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. "[A New Estimator for Encouragement Design in Randomized Controlled Trials When the Exclusion Restriction Is Violated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490)." <br />
        Runner-up for the 2024 INFORMS Information Systems Cluster Best Paper Award (Top 5%)
   2. Meng Liu, **Cheng Lu**, Xiang Hui, and Dennis J. Zhang. "[Referrers vs. Referees: How Do Reactivation Referral Programs Work on Social Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086150)." <br />
 
@@ -33,4 +33,5 @@ Teaching
 **Teaching Assistant** - Washington University in St. Louis
 + Applied Marketing Research (Undergraduate), FL 2024
 + Marketing Research (Master),  FL 2024
++ Understanding & Conducting Business Experiments (Undergraduate),  SP 2025
 + A/B Testing in Business and Social Science (Master),  SP 2025
