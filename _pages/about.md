@@ -23,7 +23,7 @@ Research
   2. Meng Liu, Cheng Lu, Xiang Hui, and Dennis J. Zhang. "[Referrers vs. Referees: How Do Reactivation Referral Programs Work on Social Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086150)." <br />
   
 + **Work in Progress**
-  1. Meng Liu, Cheng Lu, Shilei Luo, Xiang Hui, and Dennis J. Zhang. ``Unexpected Consequences in Recommender-Based Content Moderation"
+  1. Meng Liu, Cheng Lu, Shilei Luo, Xiang Hui, and Dennis J. Zhang. "Unexpected Consequences in Recommender-Based Content Moderation"
 
 Conference Presentations
 ------
