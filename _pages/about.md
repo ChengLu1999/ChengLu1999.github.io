@@ -18,9 +18,9 @@ Education
 Research
 ------
 + **Working Papers**
-  1. Guangying Chen, Cheng Lu, Tat Y. Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. "[A New Estimator for Encouragement Design in Randomized Controlled Trials When the Exclusion Restriction Is Violated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490)." **Major Revision at Marketing Science**. <br />
+  1. Guangying Chen, Cheng Lu, Tat Y. Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. "[A New Estimator for Encouragement Design in Randomized Controlled Trials When the Exclusion Restriction Is Violated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490)," Major Revision at **Marketing Science**. <br />
        Runner-up for the 2024 INFORMS Information Systems Cluster Best Paper Award (Top 5%)
-  2. Meng Liu, Cheng Lu, Xiang Hui, and Dennis J. Zhang. "[How Effective Are Reactivation Referral Programs? Evidence from a Major Social Media Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086150)." Under Review. <br />
+  2. Meng Liu, Cheng Lu, Xiang Hui, and Dennis J. Zhang. "[How Effective Are Reactivation Referral Programs? Evidence from a Major Social Media Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086150)," Under Review. <br />
   
 + **Work in Progress**
   1. Meng Liu, Cheng Lu, Shilei Luo, Xiang Hui, and Dennis J. Zhang. "Unexpected Consequences in Recommender-Based Content Moderation"
