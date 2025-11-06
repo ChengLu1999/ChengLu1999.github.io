@@ -28,8 +28,9 @@ Research
 Conference Presentations
 ------
 **A New Estimator for Encouragement Design in Randomized Controlled Trials When the Exclusion Restriction Is Violated**
-+ INFORMS Annual Meeting, Seattle, WA, 2024
++ INFORMS Annual Meeting, Atlanta, GA, 2025
 + Conference on Artificial Intelligence, Machine Learning, and Business Analytics, New Haven, CT, 2024
++ INFORMS Annual Meeting, Seattle, WA, 2024
 
 **How Effective Are Reactivation Referral Programs? Evidence from a Major Social Media Platform**
 + ISMS Marketing Science Conference, Washington, DC, 2025
@@ -37,7 +38,7 @@ Conference Presentations
 Teaching
 ------
 **Teaching Assistant** - Washington University in St. Louis
-+ Applied Marketing Research (Undergraduate), FL 2024
-+ Marketing Research (Master),  FL 2024
++ Applied Marketing Research (Undergraduate), FL 2024, FL 2025
++ Marketing Research (Master),  FL 2024, FL 2025
 + Understanding & Conducting Business Experiments (Undergraduate),  SP 2025
 + A/B Testing in Business and Social Science (Master),  SP 2025
