@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Marketing Science at Olin Business School, Washington University in St. Louis (WashU). I'm advised by Prof. [Dennis Zhang](http://denniszhang.org/). My research interests lie in Causal Inference, Artificial Intelligence, and Social Media Platforms.
+I'm a Ph.D. candidate majoring in Marketing Science at Olin Business School, Washington University in St. Louis (WashU). I'm advised by Prof. [Dennis Zhang](http://denniszhang.org/). My research interests lie in Causal Inference, Artificial Intelligence, and Social Media Platforms.
 
 Education
 ------
-+ Ph.D. Student in Marketing Science, Washington University in St. Louis, 2023 - Present
++ Ph.D. Candidate in Marketing Science, Washington University in St. Louis, 2023 - Present
 + M.A. in Management, London Business School, 2022 - 2023
 + B.S. in Economics, Tsinghua University, 2018 - 2022
 
