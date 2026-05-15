@@ -13,14 +13,14 @@ hide_meta: true
     <p class="profile-role">Ph.D. Candidate in Marketing Science</p>
     <img class="school-logo" src="{{ '/images/washu-olin-business-stacked.png' | relative_url }}" alt="Olin Business School, Washington University in St. Louis">
     <div class="profile-icons">
-      <a class="profile-icon" href="mailto:cheng.lu@wustl.edu" aria-label="Email" title="Email">
-        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6.5A2.5 2.5 0 0 1 5.5 4h13A2.5 2.5 0 0 1 21 6.5v11A2.5 2.5 0 0 1 18.5 20h-13A2.5 2.5 0 0 1 3 17.5v-11Zm2.2-.4 6.8 5.3 6.8-5.3H5.2Zm13.9 2.2-6.5 5.1a1 1 0 0 1-1.2 0L4.9 8.3v9.2c0 .3.3.6.6.6h13c.3 0 .6-.3.6-.6V8.3Z"/></svg>
-      </a>
       <a class="profile-icon" href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=w0acT28AAAAJ" aria-label="Google Scholar" title="Google Scholar">
-        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 2 9l10 6 8-4.8V17h2V9L12 3Zm0 14.3L5.7 13.5v3.1c0 2.2 2.8 4 6.3 4s6.3-1.8 6.3-4v-3.1L12 17.3Z"/></svg>
+        <img src="{{ '/images/google-scholar-icon.png' | relative_url }}" alt="">
       </a>
       <a class="profile-icon" href="https://github.com/ChengLu1999" aria-label="GitHub" title="GitHub">
         <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .8a11.2 11.2 0 0 0-3.5 21.8c.6.1.8-.2.8-.6v-2.1c-3.3.7-4-1.4-4-1.4-.5-1.3-1.3-1.7-1.3-1.7-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 .1.8 2.1 3.4 1.5.1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-5.9 0-1.3.5-2.4 1.2-3.2-.1-.3-.5-1.6.1-3.2 0 0 1-.3 3.3 1.2a11.2 11.2 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.6.2 2.9.1 3.2.8.9 1.2 1.9 1.2 3.2 0 4.6-2.8 5.6-5.5 5.9.4.4.8 1.1.8 2.2V22c0 .4.2.7.8.6A11.2 11.2 0 0 0 12 .8Z"/></svg>
+      </a>
+      <a class="profile-icon" href="https://www.linkedin.com/in/cheng-lu-b92183219/" aria-label="LinkedIn" title="LinkedIn">
+        <img src="{{ '/images/linkedin-icon.png' | relative_url }}" alt="">
       </a>
     </div>
     <a class="profile-cv" href="{{ '/assets/CV_Cheng_260430.pdf' | relative_url }}">Download CV</a>
