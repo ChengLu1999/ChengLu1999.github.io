@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Cheng Lu"
 title_separator          : "-"
 name                     : &name "Cheng Lu"
-description              : &description "personal description"
+description              : &description "Ph.D. student in Marketing Science at Washington University in St. Louis"
 url                      : https://chenglu1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChengLu1999/chenglu1999.github.io"
@@ -30,6 +30,7 @@ author:
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=w0acT28AAAAJ"
+  cv               : "/assets/CV_Cheng_260430.pdf"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
@@ -287,23 +288,12 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+plugins: []
+whitelist: []
 
 
 # Archives

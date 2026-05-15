@@ -3,6 +3,11 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.url == "/" %}
+    <nav class="section-sidebar" aria-label="Section navigation">
+      <div class="section-sidebar__title">Research</div>
+    </nav>
+  {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
