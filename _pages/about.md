@@ -23,7 +23,7 @@ hide_meta: true
         <img src="{{ '/images/linkedin-icon.png' | relative_url }}" alt="">
       </a>
     </div>
-    <a class="profile-cv" href="{{ '/assets/CV_Cheng_260430.pdf' | relative_url }}">Download CV</a>
+    <a class="profile-cv" href="{{ '/assets/CV_Cheng_260526.pdf' | relative_url }}">Download CV</a>
   </div>
 
   <div class="section-body">
