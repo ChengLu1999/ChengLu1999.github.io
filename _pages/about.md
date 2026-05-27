@@ -64,7 +64,6 @@ hide_meta: true
       </li>
     </ol>
 
-  <div class="section-body">
     <h2>Working Papers</h2>
     <ol class="paper-list">
       <li>
