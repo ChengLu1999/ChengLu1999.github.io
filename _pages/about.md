@@ -54,15 +54,19 @@ hide_meta: true
   </div>
 
   <div class="section-body">
-    <h2>Working Papers</h2>
+    <h2>Publication</h2>
     <ol class="paper-list">
       <li>
-        <p><strong>Cheng Lu</strong>, Mengxin Wang, Dennis J. Zhang, and Heng Zhang. "<a href="https://arxiv.org/abs/2604.14575">Generative Augmented Inference</a>."</p>
+        <p><strong>Cheng Lu</strong>, Mengxin Wang, Dennis J. Zhang, and Heng Zhang. "<a href="https://arxiv.org/abs/2604.14575">Generative Augmented Inference</a>." Accepted at <strong>ICML 2026</strong>.</p>
         <div class="paper-badges">
-          <span>Preliminary version accepted at ICML 2026</span>
           <span>First Prize, Buchan Prize Paper Competition</span>
         </div>
       </li>
+    </ol>
+
+  <div class="section-body">
+    <h2>Working Papers</h2>
+    <ol class="paper-list">
       <li>
         <p>Guangying Chen, <strong>Cheng Lu</strong>, Tat Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. "<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490">A New Estimator for Encouragement Design in Randomized Controlled Trials When the Exclusion Restriction Is Violated</a>." Major Revision at <strong>Marketing Science</strong>.</p>
         <div class="paper-badges">
