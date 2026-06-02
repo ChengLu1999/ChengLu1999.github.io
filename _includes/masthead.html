@@ -18,6 +18,22 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
+        <details class="mobile-nav-menu">
+          <summary>Menu</summary>
+          <ul>
+            {% for link in site.data.navigation.main %}
+              {% assign first_char = link.url | slice: 0 %}
+              {% if first_char == '#' %}
+                {% assign domain = '' %}
+                {% elsif link.url contains 'http' %}
+                {% assign domain = '' %}
+                {% else %}
+                {% assign domain = base_path %}
+              {% endif %}
+              <li><a href="{{ domain }}{{ link.url }}" onclick="this.closest('details').removeAttribute('open')">{{ link.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </details>
       </nav>
     </div>
   </div>
