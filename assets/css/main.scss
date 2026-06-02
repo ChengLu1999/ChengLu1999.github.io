@@ -375,7 +375,7 @@ body {
   text-align: center;
 }
 
-.profile-photo {
+.page__content .profile-photo {
   width: 168px;
   height: 220px;
   border: 1px solid #d7dde2;
@@ -383,28 +383,21 @@ body {
   object-fit: cover;
 }
 
-.profile-name {
+.page__content .profile-name {
   margin: 1.4rem 0 0.45rem;
   color: #111;
-  font-size: 1.15rem;
-  line-height: 1.2;
-}
-
-.page__content .profile-name {
-  margin-top: 1.4rem;
-  margin-bottom: 0.45rem;
   font-size: 1.2rem;
   line-height: 1.2;
 }
 
-.profile-role {
+.page__content .profile-role {
   margin: 0;
   color: #5f6368;
-  font-size: 0.45rem;
+  font-size: 0.8rem;
   line-height: 1.45;
 }
 
-.school-logo {
+.page__content .school-logo {
   display: block;
   width: 128px;
   max-width: 100%;
@@ -412,14 +405,14 @@ body {
   margin: 1.25rem auto 0;
 }
 
-.profile-icons {
+.page__content .profile-icons {
   display: flex;
   justify-content: center;
   gap: 0.7rem;
   margin-top: 1rem;
 }
 
-.profile-icon {
+.page__content .profile-icon {
   display: inline-flex;
   width: 2.35rem;
   height: 2.35rem;
@@ -432,24 +425,24 @@ body {
   background: #fff;
 }
 
-.profile-icon:hover {
+.page__content .profile-icon:hover {
   border-color: #0b7285;
   color: #0b7285;
   transform: translateY(-1px);
 }
 
-.profile-icon svg {
+.page__content .profile-icon svg {
   fill: currentColor;
 }
 
-.profile-icon img {
+.page__content .profile-icon img {
   width: 18px;
   height: 18px;
   object-fit: contain;
   filter: brightness(0) saturate(100%) invert(31%) sepia(82%) saturate(802%) hue-rotate(146deg) brightness(91%) contrast(94%);
 }
 
-.profile-cv {
+.page__content .profile-cv {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -457,14 +450,14 @@ body {
   min-width: 8.5rem;
   padding: 0.65rem 1rem;
   border-radius: 999px;
-  color: #fff !important;
+  color: #fff;
   font-weight: 700;
   line-height: 1;
-  text-decoration: none !important;
+  text-decoration: none;
   background: #0b7285;
 }
 
-.profile-cv:hover {
+.page__content .profile-cv:hover {
   color: #fff;
   background: #075866;
 }
@@ -473,22 +466,22 @@ body {
   min-width: 0;
 }
 
-.paper-list > li {
+.page__content .paper-list > li {
   margin-bottom: 1.25rem;
 }
 
-.paper-list p {
+.page__content .paper-list p {
   margin-bottom: 0.45rem;
 }
 
-.paper-badges {
+.page__content .paper-badges {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
   margin-top: 0.35rem;
 }
 
-.paper-badges span {
+.page__content .paper-badges span {
   display: inline-flex;
   align-items: center;
   padding: 0.25rem 0.5rem;
@@ -501,7 +494,7 @@ body {
   background: #f8fafb;
 }
 
-.interest-list ul {
+.page__content .interest-list ul {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
@@ -510,7 +503,7 @@ body {
   list-style: none;
 }
 
-.interest-list li {
+.page__content .interest-list li {
   padding: 0.35rem 0.6rem;
   border: 1px solid #d7dde2;
   border-radius: 4px;
