@@ -23,7 +23,7 @@ hide_meta: true
         <img src="{{ '/images/linkedin-icon.png' | relative_url }}" alt="">
       </a>
     </div>
-    <a class="profile-cv" href="{{ '/assets/CV_Cheng_260430.pdf' | relative_url }}">Download CV</a>
+    <a class="profile-cv" href="{{ '/assets/CV_Cheng_260601.pdf' | relative_url }}">Download CV</a>
   </div>
 
   <div class="section-body">
@@ -36,6 +36,7 @@ hide_meta: true
         <li>Causal Inference</li>
         <li>Artificial Intelligence</li>
         <li>Social Media Platforms</li>
+        <li>Field Experiments</li>
       </ul>
     </div>
 
@@ -54,30 +55,44 @@ hide_meta: true
   </div>
 
   <div class="section-body">
-    <h2>Working Papers</h2>
+    <h2>Job Market Paper</h2>
     <ol class="paper-list">
       <li>
-        <p><strong>Cheng Lu</strong>, Mengxin Wang, Dennis J. Zhang, and Heng Zhang. "<a href="https://arxiv.org/abs/2604.14575">Generative Augmented Inference</a>."</p>
+        <p>"<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6585258">Generative Augmented Inference of LLM-generated Data for Market Research: Theory and Empirical Evidence</a>." <strong>Cheng Lu</strong>, Mengxin Wang, Dennis J. Zhang, and Heng Zhang.</p>
         <div class="paper-badges">
-          <span>Preliminary version accepted at ICML 2026</span>
           <span>First Prize, Buchan Prize Paper Competition</span>
         </div>
       </li>
+    </ol>
+
+    <h2>Publication</h2>
+    <ol class="paper-list">
       <li>
-        <p>Guangying Chen, <strong>Cheng Lu</strong>, Tat Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. "<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490">A New Estimator for Encouragement Design in Randomized Controlled Trials When the Exclusion Restriction Is Violated</a>." Major Revision at <strong>Marketing Science</strong>.</p>
+        <p>"<a href="https://arxiv.org/abs/2604.14575">Generative Augmented Inference</a>." <strong>Cheng Lu</strong>, Mengxin Wang, Dennis J. Zhang, and Heng Zhang. Forthcoming at <strong>ICML</strong> (2026).</p>
+      </li>
+    </ol>
+
+    <h2>Working Papers</h2>
+    <ol class="paper-list">
+      <li>
+        <p>"<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490">A New Estimator for Encouragement Design in Randomized Controlled Trials When the Exclusion Restriction Is Violated</a>." Guangying Chen, <strong>Cheng Lu</strong>, Tat Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. Major Revision at <strong>Marketing Science</strong>.</p>
         <div class="paper-badges">
           <span>Runner-up, 2024 INFORMS IS Cluster Best Paper Award</span>
         </div>
       </li>
       <li>
-        <p>Meng Liu, <strong>Cheng Lu</strong>, Xiang Hui, and Dennis J. Zhang. "<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086150">How Effective Are Reactivation Referral Programs? Evidence from a Major Social Media Platform</a>." Submitted.</p>
+        <p>"<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086150">Evaluating Reactivation Referral Programs at Scale: Evidence from A Large Social Media Platform</a>." Meng Liu, <strong>Cheng Lu</strong>, Xiang Hui, and Dennis J. Zhang. Submitted.</p>
       </li>
     </ol>
 
     <h2>Work in Progress</h2>
-    <ol>
-      <li><strong>Cheng Lu</strong>, Raphael Thomadsen, Song Yao, and Dennis J. Zhang. "The Role of LLMs in Ads Personalization."</li>
-      <li>Meng Liu, <strong>Cheng Lu</strong>, Shilei Luo, Xiang Hui, and Dennis J. Zhang. "Unexpected Consequences in Recommender-Based Content Moderation."</li>
+    <ol class="paper-list">
+      <li>
+        <p>"The Role of LLMs in Ads Personalization." with Raphael Thomadsen, Song Yao, and Dennis J. Zhang.</p>
+      </li>
+      <li>
+        <p>"Enhancing the Power of Instrumental Variables with Higher-order Variation." with Guangying Chen, Tat Chan, Zhengling Qi, and Dennis J. Zhang.</p>
+      </li>
     </ol>
   </div>
 </section>
@@ -91,7 +106,7 @@ hide_meta: true
     <p><strong>Teaching Assistant</strong>, Washington University in St. Louis</p>
     <ul>
       <li>Applied Marketing Research, Undergraduate, Fall 2024 and Fall 2025</li>
-      <li>Marketing Research, Master, Fall 2024 and Fall 2025</li>
+      <li>Marketing Research Analytics, Master, Fall 2024 and Fall 2025</li>
       <li>Understanding &amp; Conducting Business Experiments, Undergraduate, Spring 2025</li>
       <li>A/B Testing in Business and Social Science, Master, Spring 2025 and Spring 2026</li>
     </ul>
