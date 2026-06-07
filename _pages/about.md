@@ -28,15 +28,15 @@ hide_meta: true
 
   <div class="section-body">
     <h1>Welcome! This is Cheng Lu.</h1>
-    <p>I am a Ph.D. candidate in Marketing Science at Olin Business School, Washington University in St. Louis. I am advised by Prof. <a href="http://denniszhang.org/">Dennis Zhang</a>. My research provides methodological solutions for some challenges in market research and generates insights around the use of artificial intelligence and other marketing tools on social media platforms.</p>
+    <p>I am a Ph.D. candidate in Marketing Science at Olin Business School, Washington University in St. Louis. I am advised by Prof. <a href="http://denniszhang.org/">Dennis Zhang</a>. My research is organized around a broad question: as AI systems become increasingly central to marketing practice and research, how can we draw credible conclusions from these systems and evaluate whether they create value? On the methodological side, I develop statistical machine learning methods with rigorous guarantees for marketing decision-making. On the applied side, I study the real-world effects of AI and digital platform interventions, such as LLM-assisted advertising and referral programs, using causal inference and large-scale field experiments.</p>
 
     <h2>Research Interests</h2>
     <div class="interest-list">
       <ul>
-        <li>Causal Inference</li>
         <li>Artificial Intelligence</li>
-        <li>Social Media Platforms</li>
+        <li>Causal Inference</li>
         <li>Field Experiments</li>
+        <li>Social Media Platforms</li>
       </ul>
     </div>
 
