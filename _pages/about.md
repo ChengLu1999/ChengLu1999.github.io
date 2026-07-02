@@ -43,7 +43,7 @@ hide_meta: true
     <h2>Education</h2>
     <ul>
       <li><strong>Ph.D. Candidate in Marketing Science</strong>, Washington University in St. Louis, 2023 - Present</li>
-      <li><strong>M.A. in Management</strong>, London Business School, 2022 - 2023</li>
+      <li><strong>M.S. in Management</strong>, London Business School, 2022 - 2023</li>
       <li><strong>B.S. in Economics</strong>, Tsinghua University, 2018 - 2022</li>
     </ul>
   </div>
