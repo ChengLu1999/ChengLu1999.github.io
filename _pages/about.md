@@ -23,7 +23,7 @@ hide_meta: true
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 3h-17A1.5 1.5 0 0 0 2 4.5v17A1.5 1.5 0 0 0 3.5 23h17a1.5 1.5 0 0 0 1.5-1.5v-17A1.5 1.5 0 0 0 20.5 3ZM8 19.5H5.5V10H8v9.5ZM6.7 8.7A1.45 1.45 0 1 1 6.7 5.8a1.45 1.45 0 0 1 0 2.9Zm13.3 10.8h-2.5v-4.6c0-1.1 0-2.6-1.6-2.6s-1.8 1.2-1.8 2.5v4.7h-2.5V10h2.4v1.3h.1c.3-.6 1.2-1.6 2.4-1.6 2.6 0 3 1.7 3 3.9v5.9Z"/></svg>
       </a>
     </div>
-    <a class="profile-cv" href="{{ '/assets/CV_Cheng_260601.pdf' | relative_url }}">Download CV</a>
+    <a class="profile-cv" href="{{ '/assets/CV_Cheng_260707.pdf' | relative_url }}">Download CV</a>
   </div>
 
   <div class="section-body">
@@ -75,7 +75,7 @@ hide_meta: true
     <h2>Working Papers</h2>
     <ol class="paper-list">
       <li>
-        <p>"<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490">A New Estimator for Encouragement Design in Randomized Controlled Trials When the Exclusion Restriction Is Violated</a>." Guangying Chen, <strong>Cheng Lu</strong>, Tat Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. Major Revision at <strong>Marketing Science</strong>.</p>
+        <p>"<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4864490">A New Estimator for Encouragement Design in Randomized Controlled Trials When the Exclusion Restriction Is Violated</a>." Guangying Chen, <strong>Cheng Lu</strong>, Tat Chan, Zhengling Qi, Dennis J. Zhang, and Industry Collaborators. Minor Revision at <strong>Marketing Science</strong>.</p>
         <div class="paper-badges">
           <span>Runner-up, 2024 INFORMS IS Cluster Best Paper Award</span>
         </div>
@@ -87,6 +87,9 @@ hide_meta: true
 
     <h2>Work in Progress</h2>
     <ol class="paper-list">
+      <li>
+        <p>"AI-Generated Data in Behavioral Experiments: When and How Does It Help." with Robyn LeBoeuf, Raphael Thomadsen, Mengxin Wang, Dennis J. Zhang, and Heng Zhang.</p>
+      </li>
       <li>
         <p>"The Role of LLMs in Ads Personalization." with Raphael Thomadsen, Song Yao, and Dennis J. Zhang.</p>
       </li>
@@ -105,6 +108,7 @@ hide_meta: true
   <div class="section-body">
     <p><strong>Teaching Assistant</strong>, Washington University in St. Louis</p>
     <ul>
+      <li>AI-Driven Customer Analytics, Master, Fall 2026</li>
       <li>Applied Marketing Research, Undergraduate, Fall 2024 and Fall 2025</li>
       <li>Marketing Research Analytics, Master, Fall 2024 and Fall 2025</li>
       <li>Understanding &amp; Conducting Business Experiments, Undergraduate, Spring 2025</li>
