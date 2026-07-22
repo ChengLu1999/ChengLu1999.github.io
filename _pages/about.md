@@ -68,7 +68,7 @@ hide_meta: true
     <h2>Publication</h2>
     <ol class="paper-list">
       <li>
-        <p>"<a href="https://arxiv.org/abs/2604.14575">Generative Augmented Inference</a>." <strong>Cheng Lu</strong>, Mengxin Wang, Dennis J. Zhang, and Heng Zhang. Forthcoming at <strong>ICML</strong> (2026).</p>
+        <p>"<a href="https://icml.cc/virtual/2026/poster/64830">Generative Augmented Inference</a>." <strong>Cheng Lu</strong>, Mengxin Wang, Dennis J. Zhang, and Heng Zhang. <strong>ICML</strong> (2026).</p>
       </li>
     </ol>
 
