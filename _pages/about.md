@@ -58,7 +58,7 @@ hide_meta: true
     <h2>Job Market Paper</h2>
     <ol class="paper-list">
       <li>
-        <p>"<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6585258">Generative Augmented Inference of LLM-generated Data for Market Research: Theory and Empirical Evidence</a>." <strong>Cheng Lu</strong>, Mengxin Wang, Dennis J. Zhang, and Heng Zhang.</p>
+        <p>"<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6585258">Generative Augmented Inference of LLM-generated Data for Market Research: Theory and Empirical Evidence</a>." <strong>Cheng Lu</strong>, Mengxin Wang, Dennis J. Zhang, and Heng Zhang. Submitted.</p>
         <div class="paper-badges">
           <span>First Prize, Buchan Prize Paper Competition</span>
         </div>
