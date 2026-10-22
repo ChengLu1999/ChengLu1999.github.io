@@ -1,0 +1,56 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="preview-site-body">
+    {% include browser-upgrade.html %}
+
+    <a class="preview-skip-link" href="#main-content">Skip to content</a>
+
+    <header class="preview-header">
+      <div class="preview-header__inner">
+        <a class="preview-brand" href="{{ '/' | relative_url }}">
+          <span class="preview-brand__name">Cheng Lu</span>
+        </a>
+
+        <nav class="preview-nav" aria-label="Primary navigation">
+          <div class="preview-nav__links">
+            <a href="{{ '/' | relative_url }}"{% if page.nav_section == 'home' %} class="is-active" aria-current="page"{% endif %}>Home</a>
+            <a href="{{ '/research/' | relative_url }}"{% if page.nav_section == 'research' %} class="is-active" aria-current="page"{% endif %}>Research</a>
+            <a href="{{ '/teaching/' | relative_url }}"{% if page.nav_section == 'teaching' %} class="is-active" aria-current="page"{% endif %}>Teaching</a>
+            <a href="{{ '/contact/' | relative_url }}"{% if page.nav_section == 'contact' %} class="is-active" aria-current="page"{% endif %}>Contact</a>
+          </div>
+
+          <details class="preview-nav__mobile">
+            <summary>Menu</summary>
+            <div class="preview-nav__mobile-links">
+              <a href="{{ '/' | relative_url }}">Home</a>
+              <a href="{{ '/research/' | relative_url }}">Research</a>
+              <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+              <a href="{{ '/contact/' | relative_url }}">Contact</a>
+            </div>
+          </details>
+        </nav>
+      </div>
+    </header>
+
+    <div class="preview-shell">
+      {% include homepage-profile.html %}
+
+      <main class="preview-main" id="main-content">
+        {{ content }}
+      </main>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>
